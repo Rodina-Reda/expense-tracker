@@ -1,0 +1,39 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "amount": 45.5,
+      "category": "Food",
+      "date": "2026-09-10",
+      "note": "Weekly groceries"
+    },
+    {
+      "id": 2,
+      "amount": 120,
+      "category": "Bills",
+      "date": "2026-09-12",
+      "note": "Electricity bill"
+    },
+    {
+      "id": 3,
+      "amount": 18.75,
+      "category": "Transport",
+      "date": "2026-09-15",
+      "note": "Uber to airport"
+    },
+    {
+      "id": 4,
+      "amount": 75,
+      "category": "Entertainment",
+      "date": "2026-09-18",
+      "note": "Concert tickets"
+    },
+    {
+      "id": 5,
+      "amount": 32.2,
+      "category": "Shopping",
+      "date": "2026-09-20",
+      "note": "New headphones"
+    }
+  ]
+}
